@@ -65,4 +65,118 @@
 <!-- API-EVANGELIST-PROVENANCE:END -->
 
 ferntool-com is a company surfaced via the API Evangelist harvest backlog (source: mcp-registry) and added to the network as a stub for full-pipeline profiling.
-- https://ferntool.com/
+
+**Areas:** IP lookup · Speed test · WHOIS · DNS lookup
+
+## ferntool-com on APIs.io
+
+Everything profiled for ferntool-com is published on APIs.io rather than in this repository. Start at the provider page — **[apis.io/providers/ferntool-com/](https://apis.io/providers/ferntool-com/)** — or go straight to one of the APIs or properties below.
+
+### APIs (20)
+
+- [ferntool-com Batch API](https://apis.io/apis/ferntool-com/ferntool-com-batch-api/) — The Batch API from ferntool-com — 1 operation(s) for batch.
+- [ferntool-com Date Calc API](https://apis.io/apis/ferntool-com/ferntool-com-date-calc-api/) — The Date Calc API from ferntool-com — 1 operation(s) for date calc.
+- [ferntool-com Dns API](https://apis.io/apis/ferntool-com/ferntool-com-dns-api/) — The Dns API from ferntool-com — 1 operation(s) for dns.
+- [ferntool-com Dns Propagation API](https://apis.io/apis/ferntool-com/ferntool-com-dns-propagation-api/) — The Dns Propagation API from ferntool-com — 1 operation(s) for dns propagation.
+- [ferntool-com Email Headers API](https://apis.io/apis/ferntool-com/ferntool-com-email-headers-api/) — The Email Headers API from ferntool-com — 1 operation(s) for email headers.
+- [ferntool-com Email Security API](https://apis.io/apis/ferntool-com/ferntool-com-email-security-api/) — The Email Security API from ferntool-com — 1 operation(s) for email security.
+- [ferntool-com Ip API](https://apis.io/apis/ferntool-com/ferntool-com-ip-api/) — The Ip API from ferntool-com — 2 operation(s) for ip.
+- [ferntool-com Is It Down API](https://apis.io/apis/ferntool-com/ferntool-com-is-it-down-api/) — The Is It Down API from ferntool-com — 1 operation(s) for is it down.
+- [ferntool-com JSON API](https://apis.io/apis/ferntool-com/ferntool-com-json-api/) — The Json API from ferntool-com — 1 operation(s) for json.
+- [ferntool-com Pick API](https://apis.io/apis/ferntool-com/ferntool-com-pick-api/) — The Pick API from ferntool-com — 1 operation(s) for pick.
+- [ferntool-com Qr API](https://apis.io/apis/ferntool-com/ferntool-com-qr-api/) — The Qr API from ferntool-com — 1 operation(s) for qr.
+- [ferntool-com Random API](https://apis.io/apis/ferntool-com/ferntool-com-random-api/) — The Random API from ferntool-com — 1 operation(s) for random.
+- [ferntool-com Redirects API](https://apis.io/apis/ferntool-com/ferntool-com-redirects-api/) — The Redirects API from ferntool-com — 1 operation(s) for redirects.
+- [ferntool-com Reverse Dns API](https://apis.io/apis/ferntool-com/ferntool-com-reverse-dns-api/) — The Reverse Dns API from ferntool-com — 1 operation(s) for reverse dns.
+- [ferntool-com Spf Record API](https://apis.io/apis/ferntool-com/ferntool-com-spf-record-api/) — The Spf Record API from ferntool-com — 1 operation(s) for spf record.
+- [ferntool-com Subnet API](https://apis.io/apis/ferntool-com/ferntool-com-subnet-api/) — The Subnet API from ferntool-com — 1 operation(s) for subnet.
+- [ferntool-com Timestamp API](https://apis.io/apis/ferntool-com/ferntool-com-timestamp-api/) — The Timestamp API from ferntool-com — 1 operation(s) for timestamp.
+- [ferntool-com Timezone API](https://apis.io/apis/ferntool-com/ferntool-com-timezone-api/) — The Timezone API from ferntool-com — 1 operation(s) for timezone.
+- [ferntool-com Website Legit API](https://apis.io/apis/ferntool-com/ferntool-com-website-legit-api/) — The Website Legit API from ferntool-com — 1 operation(s) for website legit.
+- [ferntool-com Whois API](https://apis.io/apis/ferntool-com/ferntool-com-whois-api/) — The Whois API from ferntool-com — 1 operation(s) for whois.
+
+### Published properties
+
+Each property below is a page on APIs.io carrying the machine-readable artifact and what it says.
+
+#### Agentic access (1)
+
+Which operations an agent can call, which act, and which need a human in the loop.
+
+- [Ferntool Com Agentic Access](https://apis.io/agentic-access/ferntool-com/ferntool-com-agentic-access/)
+
+#### Governance rules (1)
+
+Spectral rulesets for the provider's contracts.
+
+- [ferntool-com API Rules](https://apis.io/rules/ferntool-com/ferntool-com-rules/)
+
+#### Security (1)
+
+Authentication, trust centre, and vulnerability disclosure.
+
+- [Ferntool Com Domain Security](https://apis.io/security/ferntool-com/ferntool-com-domain-security/)
+
+## Where to find this API
+
+Links to the company's own pages. This repository publishes no copy of their specifications — the canonical document is theirs and lives at the URLs below.
+
+- [Website](https://ferntool.com/)
+- [Terms of service](https://www.ferntool.com/terms)
+- [Privacy policy](https://www.ferntool.com/privacy)
+
+## API Evangelist rating
+
+**Kin Score 26.9** — thin · rubric 0.27.0 · scored 2026-11-07
+
+| Facet | Score |
+|---|---|
+| Discoverability | 48.2 |
+| Contract quality | 37.8 |
+| Contract governance | 65.5 |
+| Operational transparency | 0.0 |
+| Developer ergonomics | 0.0 |
+| Access clarity | 21.1 |
+
+**Agent readiness 24.9** — agent-aware
+
+| Agent-readiness dimension | Result |
+|---|---|
+| Spec Presence | yes |
+| Agentic Access | unknown |
+| Reversibility Documented | — |
+| MCP Server | documented (partial credit) |
+| Auth Clarity | — |
+| Idempotency | — |
+| Error Semantics | derived (partial credit) |
+| OpenAPI Examples | — |
+| Rate Limit Signal | — |
+| Event Surface Described | — |
+| Agent Skills | — |
+| Well Known Catalog | — |
+| Consent Identity | — |
+| Agent Card | — |
+| Dry Run Mode | — |
+| Delegated Identity | — |
+| Protected Resource Metadata | — |
+| Dynamic Client Registration | — |
+| Agentic Commerce | — |
+| Pagination Ratio | na |
+| Operation Distinctiveness | distinct |
+| MCP Tool Quality | na |
+
+**Regulatory alignment 18.6** — Horizontal (data, software, accessibility, platform)
+
+The rubric is published at [github.com/api-evangelist/kin-score](https://github.com/api-evangelist/kin-score). The per-check breakdown behind these numbers — which checks were earned, partial or missed — along with score history and how this provider compares to its peers, is available at [apis.io/providers/ferntool-com/](https://apis.io/providers/ferntool-com/).
+
+## How this profile is made
+
+API Evangelist profiles a company's public API surface the way a developer would find it: the website, developer portal and documentation, the specifications it publishes, its public repositories, and its pricing, status and changelog pages. From that it derives the properties above — contracts split per API, workflows, schemas, collections, governance rules, plans and rate limits — and scores them against the published [Kin Score rubric](https://github.com/api-evangelist/kin-score).
+
+The artifacts are published on [APIs.io](https://apis.io), not in this repository. This repository is the public record for ferntool-com: the place to say something is wrong, missing or out of date, and to ask for a re-score or a removal.
+
+## Open an issue
+
+- **Something about this listing** — a wrong description, a missing API, a stale artifact or a question about the rating: [open an issue on this repository](https://github.com/api-evangelist/ferntool-com/issues/new).
+- **A new API, or one that is not in the catalog yet** — [submit it on APIs.io](https://apis.io/add/).
+- **Anything else** — [the APIs.io inbox](https://github.com/api-search/inbox/issues/new) or [info@apievangelist.com](mailto:info@apievangelist.com).
